@@ -7,7 +7,7 @@ Tip calculator - Codepath prework project
 
 Submitted by: **Sharon Kang**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
